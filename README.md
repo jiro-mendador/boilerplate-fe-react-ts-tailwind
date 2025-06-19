@@ -1,3 +1,6 @@
+# boilerplate-fe-react-ts-tailwind
+A reusable starting file structure and examples for react vite typescript with tailwindcss
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
